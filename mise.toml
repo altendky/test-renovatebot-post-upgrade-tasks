@@ -1,0 +1,10 @@
+[settings]
+github_attestations = false
+http_timeout = "120s"
+locked = true
+
+[tools]
+node = "22"
+python = "3"
+"aqua:superfly/flyctl" = "0.4.20"
+"npm:wrangler" = "4.70.0"

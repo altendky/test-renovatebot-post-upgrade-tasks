@@ -3,6 +3,7 @@
   "rebaseWhen": "conflicted",
   "prHourlyLimit": 10,
   "branchConcurrentLimit": 10,
+  "recreateClosed": true,
   "extends": [
     "config:recommended",
     "helpers:pinGitHubActionDigests"

@@ -1,6 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "rebaseWhen": "conflicted",
+  "prHourlyLimit": 10,
+  "branchConcurrentLimit": 10,
   "extends": [
     "config:recommended",
     "helpers:pinGitHubActionDigests"

@@ -68,6 +68,10 @@ url = "https://nodejs.org/dist/v22.22.0/node-v22.22.0-win-x64.zip"
 version = "4.70.0"
 backend = "npm:wrangler"
 
+[[tools."npm:wrangler"]]
+version = "4.80.0"
+backend = "npm:wrangler"
+
 [[tools.python]]
 version = "3.14.3"
 backend = "core:python"

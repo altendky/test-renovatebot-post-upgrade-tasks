@@ -7,4 +7,4 @@ locked = true
 node = "22"
 python = "3"
 "aqua:superfly/flyctl" = "0.4.20"
-"npm:wrangler" = "4.70.0"
+"npm:wrangler" = "4.85.0"

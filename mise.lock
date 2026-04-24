@@ -65,7 +65,7 @@ checksum = "sha256:c97fa376d2becdc8863fcd3ca2dd9a83a9f3468ee7ccf7a6d076ec66a645c
 url = "https://nodejs.org/dist/v22.22.0/node-v22.22.0-win-x64.zip"
 
 [[tools."npm:wrangler"]]
-version = "4.70.0"
+version = "4.85.0"
 backend = "npm:wrangler"
 
 [[tools.python]]
